@@ -5,6 +5,7 @@ Terminality is a versatile tool for customizing and enhancing your command line 
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
+- [Inspiration](#inspiration)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -19,6 +20,10 @@ Terminality is a versatile tool for customizing and enhancing your command line 
 ## Project Overview
 
 Terminality is designed to empower Windows users with a customizable console prompt that includes user, host, directory, and Git branch information. It aims to enhance productivity and streamline the command line experience for developers and system administrators.
+
+## Inspiration
+
+Terminality draws inspiration from tools like OhMyPosh, which enhance the command line experience by providing customizable prompts and additional features. By building upon the ideas and concepts introduced by such projects, Terminality aims to offer a similar level of flexibility and functionality tailored specifically for Windows users.
 
 ## Key Features
 
